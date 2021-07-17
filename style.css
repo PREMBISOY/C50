@@ -1,0 +1,28 @@
+.header
+{
+display:flex;
+justify-content: space-between;
+
+}
+.mainContent
+{
+display:flex;
+justify-content: space-around;
+flex-wrap: wrap;
+background-color:gold;
+}
+
+.Social_med
+{
+display:flex;
+
+/* flex-wrap: wrap; */
+flex-direction: column;
+align-items: center;
+}
+.desc
+{
+display:flex;
+flex-direction: column;
+align-items: center;
+}
